@@ -21,11 +21,15 @@ To provide the user with opportunity to learn manufacturing, electronics, progra
 * Raspbian OS, 
 * Python
  
-## Hardware: 
+## Hardware (Parts list): 
 * Piece of wood (dimensions)
 * 12 RGB LEDs
+  * PTH Addressable https://www.sparkfun.com/products/12999
 * Wire
-* Raspberry Pi
+* Raspberry Pi Zero W
+  * microB to USB A adapter (https://www.adafruit.com/product/1099)
+  * micro HDMI to HDMI adapter (https://www.adafruit.com/product/2819)
+  * micro SD card (https://www.adafruit.com/product/1294)
 * Micro-USB power adapter or battery pack
 * Soldering Iron (optional)
 * Prototyping Breadboard (optional)
