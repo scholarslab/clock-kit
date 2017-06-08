@@ -10,6 +10,12 @@ To provide the user with opportunity to learn manufacturing, electronics, progra
  
 ## Diagrams:
 
+![top view](top-view.png)
+
+![side view](side-view.png)
+
+
+
 ## Software Programs: 
 * CAD program, 
 * Raspbian OS, 
