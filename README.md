@@ -40,7 +40,8 @@ To provide the user with opportunity to learn manufacturing, electronics, progra
 * Code for LPD6803 module:
   * https://github.com/rasathus/pigredients/blob/master/pigredients/ics/lpd6803.py
   * https://github.com/adafruit/LPD6803-RGB-Pixels
- 
+* Code for using WS2812 LEDs with Raspberry Pi
+  * https://github.com/626Pilot/RaspberryPi-NeoPixel-WS2812
  
 ## Other clock ideas:
 * http://tobiscorner.floery.net/rgb-pixel-clock-part-1/
