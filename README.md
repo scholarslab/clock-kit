@@ -42,6 +42,9 @@ To provide the user with opportunity to learn manufacturing, electronics, progra
   * https://github.com/adafruit/LPD6803-RGB-Pixels
 * Code for using WS2812 LEDs with Raspberry Pi
   * https://github.com/626Pilot/RaspberryPi-NeoPixel-WS2812
+  * https://tutorials-raspberrypi.com/how-to-control-a-raspberry-pi-ws2801-rgb-led-strip/
+  * https://tutorials-raspberrypi.de/raspberry-pi-ws2812-ws2811b-rgb-led-streifen-steuern/
+  * https://learn.adafruit.com/neopixels-on-raspberry-pi/software
  
 ## Other clock ideas:
 * http://tobiscorner.floery.net/rgb-pixel-clock-part-1/
