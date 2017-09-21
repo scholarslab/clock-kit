@@ -53,7 +53,11 @@ To provide the user with opportunity to learn manufacturing, electronics, progra
   * https://learn.adafruit.com/adafruit-neopixel-uberguide/overview
   * https://github.com/adafruit/Adafruit_NeoPixel
 * WS2801
+  * https://www.adafruit.com/product/2343
   * https://www.npmjs.com/package/rpi-ws2801
+  * https://learn.adafruit.com/adafruit-dotstar-leds/overview
+  * https://www.adafruit.com/product/1787
+    * Need to use this for converting 3v logic (Pi) to 5v (LEDs)
  
 ## Other clock ideas:
 * http://tobiscorner.floery.net/rgb-pixel-clock-part-1/
